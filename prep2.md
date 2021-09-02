@@ -1,19 +1,15 @@
 ## Name of Project 
-MASAMMER
+MASAMEER
 #### Summary of idea.
 
-A Website provide home mintanince  
+a website provides home Maintainance services, so the user can request help from craftsmen and pick up one and that chosen from user itself, and send to them the information contact. 
 
 #### What problem or pain point does it solve? a. Keep it high level without going into too much detail. (3-4 sentences is enough)
 
-- the problem is The difficulty of artists communicating with the public and not finding a place to publish their drawings to display, sell and share them
-
-
-- the solution is our website We allow you to view, sell and share graphics
-
-
+- We will help the worker display his work to allow users to choose it.
+- We will help the customer to find the best available options to help him in maintenance work as soon as possble.
+- We will help the workers to find a job if there is one.
 
 #### Minimum Viable Product (MVP) definition , What is the minimum required for you to present on your demo day?
 
 - the functionallty side ,work fine 
-- style thing 
